@@ -1,3 +1,10 @@
+# react-qrcode-generator
+A React component _MyQRCode_ showcases immediate rendering of a QR Code as an `<svg>` using a text input.
+
+Thanks to npm package [qrcode](https://www.npmjs.com/package/qrcode).
+
+---
+
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
 ## Available Scripts
